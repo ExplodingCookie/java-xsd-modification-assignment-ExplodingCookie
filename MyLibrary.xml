@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <name>Library of Byhalia</name>
+    <librarians>
+        <librarian salary="31567" age="23">Jasmine</librarian>
+        <librarian salary="54376" age="61">Gregor</librarian>
+    </librarians>
+    <authors>
+        <author author="E. Jaygen">
+            <book date="1998" genre="mystery">Flames of Avarice</book>
+            <book date="1999" genre="mystery">Cut from the Cold</book>
+            <book date="2000" genre="mystery">Into the Triangle</book>
+        </author>
+        <author author="R. Santiago">
+            <book date="2010" genre="action">Warrunner</book>
+            <book date="2012" genre="action">Warrunner 2: Revenge</book>
+            <book date="2014" genre="action">Warrunner 3: A New World</book>
+            <book date="2012" genre="action">Warrunner 4: Ender</book>
+        </author>
+    </authors>
+</library>
